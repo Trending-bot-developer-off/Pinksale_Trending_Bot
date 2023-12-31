@@ -43,9 +43,9 @@ If you are interested contact me through here <a href="#contact">Contact</a>
 ## Requirements
 🔺 Windows or Mac OS Device
 
-🔺 119 Chrome Version or higher
+🔺 120 Chrome Version or higher
 
-🔺 Python Latest Version 3.12.0 or higher 
+🔺 Python Latest Version 3.12.1
 
 🔺 Rotating Proxies (I prefer use from Smartproxy.com / webshare.io)
 
