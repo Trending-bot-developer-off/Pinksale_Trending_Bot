@@ -58,7 +58,7 @@ Telegram : [@Trending_Bot_Developer](https://t.me/Trending_Bot_Developer)
 
 Find me on Youtube : https://www.youtube.com/channel/UCz5r6iZ1g-ehoB2Kjl9etnw
 
-TUTORIAL Video : https://www.youtube.com/watch?v=8q0ZbR4r4lk&t=338s
+TUTORIAL Video : https://www.youtube.com/watch?v=1w0r1kJtCqY&t=121s
 
 Live Proof : https://youtu.be/wecVj2HmGFg
 
