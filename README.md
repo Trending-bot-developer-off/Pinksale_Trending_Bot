@@ -30,7 +30,7 @@ If you are interested contact me through here <a href="#contact">Contact</a>
 - Scrolling the page ✓
 
 ## Installation
-🔺First, Install Python 3.12.0 with must tick on python environment variable and install for all users.
+🔺First, Install Python 3.13.0 with must tick on python environment variable and install for all users.
 
 🔺secondly, Run Setup.bat
 
@@ -45,7 +45,7 @@ If you are interested contact me through here <a href="#contact">Contact</a>
 
 🔺 120 Chrome Version or higher
 
-🔺 Python Latest Version 3.12.1
+🔺 Python Latest Version 3.13.0
 
 🔺 Rotating Proxies (I prefer use from Smartproxy.com / webshare.io)
 
